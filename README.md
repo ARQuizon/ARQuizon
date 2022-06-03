@@ -5,6 +5,6 @@
 - 📧 Got questions? Email me at: aruquizon@gmail.com
 
 <!---
-AlexaQuizon is a special repository because its `README.md` (this file) appears on your GitHub profile.
+ARQuizon/AlexaQuizon is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
